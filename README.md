@@ -1,8 +1,8 @@
-Simple codetest
+Simple gnaderi
 -----------------
 
-Package codetest.services contains a service `FindService` to implement. This service works with the datastucture
-defined in package `codetest.orgtree`.
+Package gnaderi.services contains a service `FindService` to implement. This service works with the datastucture
+defined in package `gnaderi.orgtree`.
 
 The tasks are to implement and test (in increasing order of difficulty) -
 
@@ -14,10 +14,10 @@ The tasks are to implement and test (in increasing order of difficulty) -
 
 Implementing the tasks without duplicating code is to be encouraged.
 
-Methods may be added to the classes in the `codetest.orgtree` package if desired - but the general class hierarchy
+Methods may be added to the classes in the `gnaderi.orgtree` package if desired - but the general class hierarchy
 should remain unchanged.
 
-The signatures of the methods in the interfaces of `codetest.services` should remain unchanged.
+The signatures of the methods in the interfaces of `gnaderi.services` should remain unchanged.
 
 The first task has an example test to get you started. The test cases should illustrate the desired behaviour for this
 method. Add further test cases and refactor if required.
